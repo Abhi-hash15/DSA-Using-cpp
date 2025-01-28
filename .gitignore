@@ -1,0 +1,16 @@
+# Ignore .exe files
+*.exe
+
+# Ignore build artifacts from C++ compilers
+*.o
+*.obj
+*.out
+
+# Ignore VS Code specific files
+.vscode/
+*.code-workspace
+
+# Ignore debug and release build directories
+/build/
+Debug/
+Release/
